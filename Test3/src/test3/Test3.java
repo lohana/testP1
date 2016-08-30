@@ -17,7 +17,7 @@ public class Test3 {
      */
     public static void main(String[] args) {
         // TODO code application logic here
-        int a,b,c;
+        int a,x,y,z;
     }
     
 }
