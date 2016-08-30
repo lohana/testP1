@@ -20,6 +20,7 @@ public class Test3 {
         int a;
         float b;
         int c;
+        int l;
     }
     
 }
