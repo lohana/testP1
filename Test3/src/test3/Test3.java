@@ -21,6 +21,7 @@ public class Test3 {
         float b;
         int c;
         int l;
+        int x,y,z;
     }
     
 }
