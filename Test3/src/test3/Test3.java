@@ -19,6 +19,7 @@ public class Test3 {
         // TODO code application logic here
         int a;
         float b;
+        int c;
     }
     
 }
