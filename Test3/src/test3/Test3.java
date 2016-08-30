@@ -22,6 +22,7 @@ public class Test3 {
         int c;
         int l;
         int x,y,z;
+        int f;
     }
     
 }
