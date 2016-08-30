@@ -17,7 +17,10 @@ public class Test3 {
      */
     public static void main(String[] args) {
         // TODO code application logic here
-        int a,x,y,z;
+        int a;
+        float b;
+        int c;
+        int x,y,z;
     }
     
 }
